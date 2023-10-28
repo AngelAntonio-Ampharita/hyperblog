@@ -1,0 +1,43 @@
+commit d54d7d1912478c38361ce08a7e6136a83695ad40
+Author: Angel <angelbarriospacheco@gmail.com>
+Date:   Tue Oct 24 23:32:11 2023 -0300
+
+    Cambio de la versión original, una nueva historia
+
+commit aad8e959842f6c4abc23ad9cf6db822abab97efd
+Author: Angel <angelbarriospacheco@gmail.com>
+Date:   Tue Oct 24 23:15:46 2023 -0300
+
+    añadido el tópico de los objetivos y el progreso
+
+commit 706e5c53c779c8d46a7ec4ff49e5fbc804c68bdc
+Author: Angel <angelbarriospacheco@gmail.com>
+Date:   Tue Oct 24 23:11:23 2023 -0300
+
+    arranco mi proyecto real con html y css
+
+commit fab330de328f6f6ebcd87c54ae7117739bbd1e59
+Author: Angel <angelbarriospacheco@gmail.com>
+Date:   Tue Oct 24 01:47:08 2023 -0300
+
+    Nueva linea con frase
+    
+    tengo la fuerza
+
+commit f7473505c06a6e94ebe339f75568eb200ad83087
+Author: Angel <angelbarriospacheco@gmail.com>
+Date:   Tue Oct 24 01:45:19 2023 -0300
+
+    Agregamos una nueva frase motivacional
+
+commit 5e3ff5bf0932840ac6af87ff0a57ee5ba15f3b90
+Author: Angel <angelbarriospacheco@gmail.com>
+Date:   Mon Oct 23 23:19:59 2023 -0300
+
+    cambios al archivo de historia para actualizar mi estado de animo
+
+commit 265111211b8f3dba7e6ad151c7d665b68db94980
+Author: Angel <angelbarriospacheco@gmail.com>
+Date:   Mon Oct 23 23:14:44 2023 -0300
+
+    Este es el primer commit
