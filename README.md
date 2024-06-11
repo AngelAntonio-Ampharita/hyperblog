@@ -8,9 +8,9 @@ Un blog increíble para el [curso de Git y Github](https://platzi.com/cursos/git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
-* Las personalidades múltiples de Freddy
 
-Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
+[Ejercicio blogpost](https://angelantonio-ampharita.github.io/hyperblog/blogpost.html)
+>Este ejercicio es una práctica que hice a partir de las lecciones del curso de Git y Github 
 
 ------------
 [![Migu](https://img1.picmix.com/output/pic/normal/4/1/0/1/11271014_70fc4.gif "Migu")](http://https://img1.picmix.com/output/pic/normal/4/1/0/1/11271014_70fc4.gif "Migu")
